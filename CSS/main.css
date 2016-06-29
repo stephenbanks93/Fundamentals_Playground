@@ -28,3 +28,12 @@
 a:visited{
     color: gray;
 }
+
+.project{
+    height: 400px;
+    width: 400px;
+}
+
+.container{
+    padding: 40px 40px 40px 40px;
+}
